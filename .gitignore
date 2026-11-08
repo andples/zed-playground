@@ -1,0 +1,14 @@
+# build output
+target/
+_build/
+build/
+.venv/
+__pycache__/
+*.pdf
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.out
+.DS_Store
